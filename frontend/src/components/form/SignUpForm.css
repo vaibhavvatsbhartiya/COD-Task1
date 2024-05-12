@@ -1,0 +1,21 @@
+.signup-form-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  
+  .form-group {
+    margin-bottom: 20px;
+  }
+  
+  .btn-primary {
+    width: 100%;
+  }
+  
+  .signup-form{
+    border: 1px solid black;
+    padding: 1rem;
+    width: 500px;
+    border-radius: 10px;
+  }
